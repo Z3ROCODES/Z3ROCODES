@@ -19,3 +19,4 @@ I'm a passionate Python developer with a focus on security and bug bounty huntin
 
 ## Find me on:
 - [Youtube](https://www.youtube.com/@Z3RO_HUNTS)
+- [Twitter](https://x.com/FadingTool98097)
