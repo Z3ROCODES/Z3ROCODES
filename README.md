@@ -7,6 +7,7 @@ I'm a passionate Python developer with a focus on security and bug bounty huntin
 ## What I'm Working On
 
 - WiFi Deauthentication Attack Tool
+- WiFi Sniffer ( Not Done )
 - Packet Sniffer and Sender tools
 - Open-Source security tools
 
