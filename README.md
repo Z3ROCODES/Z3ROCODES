@@ -18,5 +18,4 @@ I'm a passionate Python developer with a focus on security and bug bounty huntin
 - Networking and Security 🔐
 
 ## Find me on:
-- [Youtube]([https://twitter.com/your-twitter](https://www.youtube.com/@Z3RO_HUNTS))
-- [Discord](oy.sugarhill)
+- [Youtube](https://www.youtube.com/@Z3RO_HUNTS)
